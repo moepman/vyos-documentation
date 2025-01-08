@@ -294,7 +294,7 @@ Example
 *******
 
 The following example is based on a Sierra Wireless MC7710 miniPCIe card (only
-the form factor in reality it runs UBS) and Deutsche Telekom as ISP. The card
+the form factor, in reality it runs via USB) and Deutsche Telekom as ISP. The card
 is assembled into a :ref:`pc-engines-apu4`.
 
 .. code-block:: none
